@@ -1,0 +1,9 @@
+export const baseURL = "https://holtek.cqupt.edu.cn/mast/home";
+export const tc7URL = "/tc?today=true&price=7";
+export const tc9URL = "/tc?today=true&price=9";
+export const tc11URL = "/tc?today=true&price=11";
+export const tc7URLT = "/tc?today=false&price=7";
+export const tc9URLT = "/tc?today=false&price=9";
+export const tc11URLT = "/tc?today=false&price=11";
+export const zxcURL = "/zxc?today=true";
+export const zxcURLT = "/zxc?today=false";
